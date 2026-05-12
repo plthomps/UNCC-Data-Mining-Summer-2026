@@ -12,6 +12,10 @@ Most assignments in this repository will be opened and executed in Google Colab.
 <li><a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/lab_02_example.ipynb">Lab 1 Example: Data Mining Process</a></li>
 <li><a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/lab_02_exercise.ipynb">Lab 1 Exercise: Practicing the DM Process, AI and Pipelines</a></li>
 </ul>
+</ul>
+<ul>Lab 3: Data Wrangling
+<li><a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/lab_03_example.ipynb">Lab 1 Example: Data Wrangling with the Diamonds Dataset</a></li>
+<li><a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/lab_03_exercise.ipynb">Lab 1 Exercise: Data Wrangling the Google Play Store Dataset </a></li></ul>
 
 # Resources for Class
 <ul>Sample Notebooks
