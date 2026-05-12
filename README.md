@@ -18,7 +18,7 @@ Most assignments in this repository will be opened and executed in Google Colab.
 </ul>
 <ul>Lab 4: Data Exploration
 <li><a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/lab_04_example.ipynb">Lab 4 Example: Data Exploration with the Palmer's Penguins</a></li>
-<li><a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/lab_04_exercise.ipynb">Lab 4 Exercise: Exploring World Stock Market Indices </a></li></ul>
+<li><a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/lab_04_exercise.ipynb">Lab 4 Exercise: Exploring World Stock Market Indices (upload world_indices.csv or "Live Fetch" from Yahoo Finance, instructions in the notebook)</a></li></ul>
 
 # Resources for Class
 <ul>Sample Notebooks
