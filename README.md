@@ -18,7 +18,7 @@ Most assignments in this repository will be opened and executed in Google Colab.
   <li><a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/Boston_Data_Exploration.ipynb">Exploring and Wrangling the Boston Dataset</a></li>
   <li><a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/Titanic_with_XAI.ipynb">Random Forest Modeling and XAI with the Titanic Dataset</a></li>
 </ul>
-<ul>Other Resources for Class
+<ul>
   <li>Introductory video on using Colab: <a href="https://www.youtube.com/watch?v=RLYoEyIHL6A">Google Colab for Beginners</a></li>
   <li>Detecting Shark Presence: <a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/Detecting_Shark_Presence.ipynb">Understanding Shark Presence in Near Shore Waters</a> (opens in Google Colab, follow all instructions)</li>
 </ul>
