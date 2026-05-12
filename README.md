@@ -4,12 +4,18 @@ Bharath Makkena, email bmakkena@charlotte.edu and Meelad Doroodchi, email mdoroo
 
 Most assignments in this repository will be opened and executed in Google Colab. The link for each assignment will open in Colab and the assignment has instructions for saving and submitting your work. You can visit https://colab.research.google.com and upload your own notebooks (python files with extension .ipynb) to colab using File . . . Upload.<br>
 
-<ul>Assignments
-  <li>Assignment 1: <a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/Boston_Data_Exploration.ipynb">Exploring and Wrangling the Boston Dataset</a> (opens in Google Colab, follow all instructions)</li>
-  <li>Assignment 2: <a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/Titanic_with_XAI.ipynb">Random Forest Modeling and XAI with the Titanic Dataset</a> (opens in Google Colab, follow all instructions)</li>
-</li>
+<ul>Lab 1: Getting Started
+<li><a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/lab_01_example.ipynb">Lab 1 Example: Google Colab and Notebooks</a></li>
+<li><a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/lab_01_exercise.ipynb">Lab 1 Exercise: Pracicing Skills in Jupyter and Google Colab</a></li>
 </ul>
-<ul>Resources for Class
+## End
+
+# Resources for Class
+<ul>Sample Notebooks
+  <li><a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/Boston_Data_Exploration.ipynb">Exploring and Wrangling the Boston Dataset</a></li>
+  <li><a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/Titanic_with_XAI.ipynb">Random Forest Modeling and XAI with the Titanic Dataset</a></li>
+</ul>
+<ul>Other Resources for Class
   <li>Introductory video on using Colab: <a href="https://www.youtube.com/watch?v=RLYoEyIHL6A">Google Colab for Beginners</a></li>
-  <li>Detecting Shark Presence: <a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2025/blob/main/Detecting_Shark_Presence.ipynb">Understanding Shark Presence in Near Shore Waters</a> (opens in Google Colab, follow all instructions)</li>
+  <li>Detecting Shark Presence: <a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/Detecting_Shark_Presence.ipynb">Understanding Shark Presence in Near Shore Waters</a> (opens in Google Colab, follow all instructions)</li>
 </ul>
