@@ -8,7 +8,6 @@ Most assignments in this repository will be opened and executed in Google Colab.
 <li><a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/lab_01_example.ipynb">Lab 1 Example: Google Colab and Notebooks</a></li>
 <li><a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/lab_01_exercise.ipynb">Lab 1 Exercise: Pracicing Skills in Jupyter and Google Colab</a></li>
 </ul>
-<br>
 <h2>End of Labs</h2>
 
 # Resources for Class
