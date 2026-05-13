@@ -19,6 +19,9 @@ Most assignments in this repository will be opened and executed in Google Colab.
 <ul>Lab 4: Data Exploration
 <li><a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/lab_04_example.ipynb">Lab 4 Example: Data Exploration with the Palmer's Penguins</a></li>
 <li><a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/lab_04_exercise.ipynb">Lab 4 Exercise: Exploring World Stock Market Indices (upload world_indices.csv or "Live Fetch" from Yahoo Finance, instructions in the notebook)</a></li></ul>
+<ul>Lab 5: Preprocessing and Feature Engineering
+<li><a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/lab_05_example.ipynb">Lab 5 Example: Preprocessing the Titanic Dataset</a></li>
+<li><a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2026/blob/main/lab_05_exercise.ipynb">Lab 5 Exercise: Preprocessing the Adult Census Income Dataset</a></li></ul>
 
 # Resources for Class
 <ul>Sample Notebooks
